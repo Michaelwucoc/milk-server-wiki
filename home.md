@@ -2,11 +2,11 @@
 title: 首页
 description: 
 published: true
-date: 2025-03-28T12:46:05.990Z
+date: 2025-03-28T12:55:46.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T12:46:05.990Z
 ---
 
-# Header
-Your content here
+# 欢迎
+这里是 Milk SMP Server 的 官方 Wiki。 
